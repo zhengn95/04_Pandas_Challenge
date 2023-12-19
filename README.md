@@ -23,7 +23,7 @@ Based on our analysis, charter schools appear to have a higher math, reading, an
 
 In charter schools, students appear to have a slightly higher average score and pass rate in reading than in math. However, scores and pass rates are very similar. In district schools, students have a higher average score and pass rate in reading than in math.
 
-### Conclusion
+## Conclusion
 Charter schools and schools with <2000 students appear to have higher overall pass rates in the district. Factors such as grades and higher spending do not impact higher overall pass rates. Conversely, schools at the lowest spending range have overall higher pass rates. More students pass math than Reading in the district. 
 
 
